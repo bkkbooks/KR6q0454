@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0454_000.yaml, hash: 'sha256:4199af535f6081f38dbf1baa4660ab87594c7bf63416bd75bb8e9e6c6af752be'}
+  - {seq: 0, filename: KR6q0454_000.yaml, hash: 'sha256:271bc722f13410da2baf414a4773cb8a6a5f307403a452fd7fb508cc07cad9d7'}
   - {seq: 1, filename: KR6q0454_001.yaml, hash: 'sha256:3ade3c943fc8af86dc8f2ddb7a9d73e02f677c13f4d5b4881351c40891851bcf'}
   - {seq: 2, filename: KR6q0454_002.yaml, hash: 'sha256:dd9d400ab183981f62068a0096890aaf7d16e9aff1f9bc75ebb50ecd0c891649'}
   - {seq: 3, filename: KR6q0454_003.yaml, hash: 'sha256:7b791b434d978170a2ad05cd96d61a20c75428539a32ac73fa7867bf755017b1'}
@@ -39,7 +39,7 @@ assets:
   - {seq: 15, filename: KR6q0454_015.yaml, hash: 'sha256:338c09d26f93c53de051f868500bfac044cdbb374ed80d89483c451d25df4f97'}
   - {seq: 16, filename: KR6q0454_016.yaml, hash: 'sha256:9fad9481f80aa0008e1e7da0220100e88ff29f4f83ac83df2d0b18f51f2bc060'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0454_000.markers.yaml, hash: 'sha256:66d1b4d5da62c7349385faf3e3f2f4c226b3c8ed99cecfb99afcc79cd1c61a16'}
+  - {seq: 0, role: markers, filename: assets/KR6q0454_000.markers.yaml, hash: 'sha256:6badfcd096914e81377481ff51dd02b9f08d1aaff04db0a447c54e195f2169f5'}
   - {seq: 1, role: markers, filename: assets/KR6q0454_001.markers.yaml, hash: 'sha256:a3c14ed6e2d569c6a7afe1ec185f00551bab162ede43ffcfda49efff481eaf6d'}
   - {seq: 2, role: markers, filename: assets/KR6q0454_002.markers.yaml, hash: 'sha256:db6a362b06ea1bb458ee1122768809d39f1a48f8d3007a271c32bbf560980843'}
   - {seq: 3, role: markers, filename: assets/KR6q0454_003.markers.yaml, hash: 'sha256:672a122dd8047590897d02b9d33625b2e83773607486185734ea977c8e45f63b'}
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0454_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 敘
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0454_J_000-mulu-2
     span:
-    - front
+    - body
     - 795
     - 795
   label: 目錄
@@ -3107,7 +3107,7 @@ table_of_contents:
   label: 題金天木居士金剛忍字跋
   type: mulu
   level: 1
-hash: sha256:a7d4b812d4b9af78317d89a9a290e0fdd7bb23ed2816e40e27b98d1da8ac3c7c
+hash: sha256:3626f7ff470dcd2c5940cb4a7b71fe567e39f49524f754ed734479165c2abf9d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

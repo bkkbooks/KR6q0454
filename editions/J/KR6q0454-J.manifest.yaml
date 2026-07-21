@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0454_000-J.yaml, hash: 'sha256:f143c1ff264665088dffdd9492db05b2b1f1b91efec08f386f2dfa6699a325c7'}
+  - {seq: 0, filename: KR6q0454_000-J.yaml, hash: 'sha256:34856265899c879ab610332984aaba30925c39deecf75f9c18d55968bf8fe40a'}
   - {seq: 1, filename: KR6q0454_001-J.yaml, hash: 'sha256:4419ede3d361af061ae5eafba29c5dc9937cb3a6ae5178f664f4cae2c43758db'}
   - {seq: 2, filename: KR6q0454_002-J.yaml, hash: 'sha256:c215090283a9c1f0c41296f560d6b6abb9e6056bdc3aad4d418b1c4e42aeeaf9'}
   - {seq: 3, filename: KR6q0454_003-J.yaml, hash: 'sha256:250e4e049f3859f8ffe58ff2f82207f009b5a6d9528eda6c325052418968cf83'}
@@ -37,7 +37,7 @@ assets:
   - {seq: 15, filename: KR6q0454_015-J.yaml, hash: 'sha256:7c5be94bd07ed22127a8b7d232a3add6267ebfb5f9c1959ae4ca400c4adb0349'}
   - {seq: 16, filename: KR6q0454_016-J.yaml, hash: 'sha256:8681f9ba2f825d1dc616bfe39a99c88e97ff42ce0c44010cd755d3a0b892e130'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0454_000-J.markers.yaml, hash: 'sha256:681a5848bb2e679aa571c1cd9abd13c61c8cc53a691f257ad7378fc2019d4466'}
+  - {seq: 0, role: markers, filename: assets/KR6q0454_000-J.markers.yaml, hash: 'sha256:0e397b3a9692f544b124ca6ae9f6e5aa355ba45d06d4282527fccfa8ea54fbb0'}
   - {seq: 1, role: markers, filename: assets/KR6q0454_001-J.markers.yaml, hash: 'sha256:65534f0abff0e83646cbe1717e0dbdd6bb859d6a1869bade7e2284d2834d0219'}
   - {seq: 2, role: markers, filename: assets/KR6q0454_002-J.markers.yaml, hash: 'sha256:7c61a153c52b932159a488d7e487f98d4dd5d20015153d4c80c0a7cb569d2861'}
   - {seq: 3, role: markers, filename: assets/KR6q0454_003-J.markers.yaml, hash: 'sha256:b3af69c6ba2ac1ac6eb453cbe23bb639cc477c07ff62a30ae1159836402984af'}
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0454_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 敘
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0454_J_000-mulu-2
     span:
-    - front
+    - body
     - 795
     - 795
   label: 目錄
@@ -3105,4 +3105,4 @@ table_of_contents:
   label: 題金天木居士金剛忍字跋
   type: mulu
   level: 1
-hash: sha256:63253b0bc3586604305d10c09d7b17e2ee94064074bbb2a1cdeb6c6f387f7fca
+hash: sha256:7f9bed1a5ddc3c154872c93df5b4c409415bfdbbfa853869611e249204adf86e
